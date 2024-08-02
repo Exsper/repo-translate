@@ -1,0 +1,12 @@
+{
+    "./source-repo\\test3\\index.js": {
+        "\"this is a test\"": "\"这是一个测试\"",
+        "\"num is \"": "\"num 是 \"",
+        "\" !\"": "\" ！\"",
+        "`and num3 is ${add(num, num2)} !`": "`并且 num3 是 ${add(num, num2)} ！`",
+        "\"there is num4 \"": "\"这里还有 num4 \""
+    },
+    "./source-repo\\test3\\lib\\add.js": {
+        "\"add\"": "\"加\""
+    }
+}
